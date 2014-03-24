@@ -1,0 +1,29 @@
+@font-face {
+font-family: Bariol;
+src: url("Bariol_Regular.otf") format("opentype");
+}
+@font-face {
+font-family: Bariol_Thin;
+src: url("Bariol_Thin.otf") format("opentype");
+}
+@font-face {
+font-family: Bariol_Light;
+src: url("Bariol_Light.otf") format("opentype");
+}
+
+body{
+	font: 16px "Bariol","Helvetica-neue", "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.container{
+	margin-top:40px;
+}
+
+a{
+	color:#eea236;
+}
+
+.mtop1{margin-top:10px;}
+.mtop2{margin-top:20px;}
+.mtop3{margin-top:30px;}
+.mtop4{margin-top:40px;}
