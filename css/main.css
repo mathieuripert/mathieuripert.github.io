@@ -23,6 +23,10 @@ a{
 	color:#2C80F4;
 }
 
+a:hover{
+	color:#4DD989;
+}
+
 p{
 	color:#555;
 }
